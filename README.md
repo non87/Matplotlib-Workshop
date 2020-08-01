@@ -1,7 +1,7 @@
 # Matplotlib Workshop
 Contains the material for the Matplotlib Summer 2020 Workshop.
 
-The workshop is divided into two parts. Part 1 is about the fundamental syntax of matplotlib. Part 2 shows how to create standard plots (like scatter plots) in matplotlib. Both parts consists of a Jupyter notebook plus external data to be analyzed. The data is contained in this same repository, be sure to download the entire depository.
+The workshop is divided into two parts. Part I is about the fundamental syntax of matplotlib. Part II shows how to create standard plots (like scatter plots) in matplotlib. Both parts consists of a Jupyter notebook plus external data to be analyzed. The data is contained in this same repository, be sure to download the entire depository.
 
 ## Note on Versioning
 
@@ -12,7 +12,7 @@ The notebooks require Pandas, matplotlib and numpy. You can use the Google Colla
 To use the colaboratory version, it is sufficient to open the following links, let your browser load the file and click on the "open in colab" icon that will appear on top of the file:
 
 1.   [Part 1 on Colab](./matplotlib_workshop_part_I_colaboratory.ipynb)
-2.   [Part 2 on Colab](./matplotlib_workshop_part_II_colaboratory.ipynb)
+2.   [Part 2 on Colab](./matplotlib_workshop_part_II_collaboratory.ipynb)
 
 If you prefer to use your local machine, then you can create a specific Anaconda environment with this line of code:
 
