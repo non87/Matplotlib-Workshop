@@ -20,7 +20,7 @@ If you prefer to use your local machine, then you can create a specific Anaconda
 
 To activate the environment, you can use
 
-`conda activate geopandas_workshop`
+`conda activate matplotlib_workshop`
 
 After this, you can download the entire repository with the "clone or download" green button on the right-upper corner of the [repository homepage](https://github.com/non87/Matplotlib-Workshop). Finally, you can use Jupyter Notebook or Jupyter Lab (both included with Ananconda) to open the local versions of the notebooks.
 
