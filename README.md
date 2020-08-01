@@ -11,8 +11,8 @@ This workshop was created using Python 3.8.3, Pandas 1.0.1, numpy 1.18.1 and mat
 The notebooks require Pandas, matplotlib and numpy. You can use the Google Collaboratory version of the notebooks. 
 To use the colaboratory version, it is sufficient to open the following links, let your browser load the file and click on the "open in colab" icon that will appear on top of the file:
 
-1.   [Part 1 on Colab](./workshop1_colaboratory.ipynb)
-2.   [Part 2 on Colab](./workshop2_colaboratory.ipynb)
+1.   [Part 1 on Colab](./matplotlib_workshop_part_I_colaboratory.ipynb)
+2.   [Part 2 on Colab](./.ipynb)
 
 If you prefer to use your local machine, then you can create a specific Anaconda environment with this line of code:
 
