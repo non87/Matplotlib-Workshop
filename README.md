@@ -12,7 +12,7 @@ The notebooks require Pandas, matplotlib and numpy. You can use the Google Colla
 To use the colaboratory version, it is sufficient to open the following links, let your browser load the file and click on the "open in colab" icon that will appear on top of the file:
 
 1.   [Part 1 on Colab](./matplotlib_workshop_part_I_colaboratory.ipynb)
-2.   [Part 2 on Colab](./.ipynb)
+2.   [Part 2 on Colab](./matplotlib_workshop_part_II_colaboratory.ipynb)
 
 If you prefer to use your local machine, then you can create a specific Anaconda environment with this line of code:
 
